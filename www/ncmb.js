@@ -1,5 +1,5 @@
 // This is a JavaScript file
-
+//git テストするよ〜
 // information of this app
         var appkey = "e5f71871cd4b14c26292e623f4e333d9830e1dfdc18b4635275ccc1d1db60d57";
         var clientkey = "b38b0bee46821448c3f63dde1165ded8f3b35378ce20ae6c7db8fa80b5364854";
