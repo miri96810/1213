@@ -1,4 +1,5 @@
 /* Slider */
+
 .slick-slider
 {
     position: relative;
@@ -116,6 +117,43 @@
 }
 .slick-arrow.slick-hidden {
     display: none;
+}
+
+
+
+.sample {
+    margin: 20px;
+    margin-top: 190px;
+    text-align: center;
+}
+
+
+
+
+#nav {
+  position: fixed;
+  bottom:0px;
+  left:0px;
+  list-style: none;
+  overflow: hidden;
+  text-align: center;
+
+}
+
+#nav li {;
+  width: 105px;
+  height: 40px;
+  background-color: #000000;
+  text-align: center;
+
+
+}
+
+#nav li a {
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+
 }
 
 
